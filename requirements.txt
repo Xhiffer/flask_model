@@ -1,0 +1,8 @@
+numpy
+pandas
+flask
+requests
+pickle-mixin
+scikit-learn
+seaborn
+statsmodels
